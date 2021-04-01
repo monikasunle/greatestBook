@@ -1,0 +1,23 @@
+{
+  "name": "greatestBook",
+  "version": "1.0.0",
+  "description": "Gitbook  热播电视剧",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monikasunle/greatestBook.git"
+  },
+  "keywords": [],
+  "author": "sunle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monikasunle/greatestBook/issues"
+  },
+  "homepage": "https://github.com/monikasunle/greatestBook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
